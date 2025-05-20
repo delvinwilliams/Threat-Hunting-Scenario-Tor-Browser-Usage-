@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Delvin Williams
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: delvinjwilliams@gmail.com
 - **Date**: August 31, 2024
 
 ## Validated By:
